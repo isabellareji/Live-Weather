@@ -1,1 +1,1 @@
-Built a responsive React weather application integrating real-time API data, geolocation, and dynamic UI states. Implemented custom animations, error handling, and a 5-day forecast system to deliver a smooth, reliable user experience.
+
